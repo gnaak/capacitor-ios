@@ -1,0 +1,5 @@
+{
+  "appId": "com.example.app",
+  "appName": "capacitor-ios",
+  "webDir": "dist"
+}
