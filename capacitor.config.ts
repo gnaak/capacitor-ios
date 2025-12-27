@@ -5,7 +5,7 @@ const config: CapacitorConfig = {
   appName: "gnaak",
   webDir: "dist",
   server: {
-    url: "http://172.24.208.1:3000",
+    url: "http://172.30.1.87:3000",
   },
   plugins: {
     SocialLogin: {
