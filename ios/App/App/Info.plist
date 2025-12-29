@@ -53,7 +53,7 @@
 		<string>Editor</string>
 		<key>CFBundleURLSchemes</key>
 		<array>
-		<string>com.googleusercontent.apps.1054864505067-sobsnsela1c52rjroohnkghhubr83uuj</string>
+		<string>com.googleusercontent.apps.549069019965-cjo49kiuh05rja7cdjmom9nn52im0rnb</string>
 		</array>
 	</dict>
 	<dict>
@@ -61,12 +61,12 @@
 		<string>Editor</string>
 		<key>CFBundleURLSchemes</key>
 		<array>
-		<string>com.googleusercontent.apps.1054864505067-ftgibqgjh6a1duh0q3qm6r66io5cvd2v</string>
+		<string>com.googleusercontent.apps.549069019965-r8hmqopvgv51pli6lus95n94deu58qvb</string>
 		</array>
 	</dict>
 	</array>
 
 	<key>GIDClientID</key>
-	<string>1054864505067-sobsnsela1c52rjroohnkghhubr83uuj.apps.googleusercontent.com</string>  <!-- iOS Client ID -->
+	<string>549069019965-cjo49kiuh05rja7cdjmom9nn52im0rnb.apps.googleusercontent.com</string>  <!-- iOS Client ID -->
 </dict>
 </plist>
